@@ -1,4 +1,4 @@
-# Database Management Systems - ER Diagram Readme
+# Database Management Systems - ER Diagram
 
 ## Name: Syed Muhammad Noor Ali Shah
 ## Registration Number: 2021-CE-36
